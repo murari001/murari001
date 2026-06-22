@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murari Prasasd
 - 👀 I’m interested in building agents
-- 🌱 I’m currently working as a Full Stack QA.
+- 🌱 I’m currently working as a Full Stack python developer 
 - 📫 How to reach me IG-beingkshatriya01
 
 <!---
