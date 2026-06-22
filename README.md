@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Murari Prasasd
-- 👀 I’m interested in Quality Assurance
+- 👀 I’m interested in building agents
 - 🌱 I’m currently working as a Full Stack QA.
-- 📫 How to reach me IG-beingkshatriya
+- 📫 How to reach me IG-beingkshatriya01
 
 <!---
 murari001/murari001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
